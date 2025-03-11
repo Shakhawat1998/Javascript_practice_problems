@@ -37,7 +37,7 @@ function minimumBoxes(apple, capacity) {
         apples += num;
     }
 
-    // Find the largest values in capacity manually
+    //sort capacity array in descending order
     let n = capacity.length;
     for (let i = 0; i < n; i++) {
         for (let j = i + 1; j < n; j++) {
