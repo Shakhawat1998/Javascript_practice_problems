@@ -12,7 +12,7 @@
 //simple traversal - O(n) time and O(1) space
 
 //The idea is to traverse the array while 
-//keeping track og the current 
+//keeping track of the current 
 //streak of consecutive 1s or 0s. If the sequence 
 //is broken, update the maximum count and reset the current 
 //count 
