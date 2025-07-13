@@ -20,8 +20,4 @@ function shuffleArray(){
 
 
 
-
-
-
-
 shuffleArray();
